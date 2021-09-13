@@ -1,0 +1,70 @@
+
+.cls-1, .cls-10, .cls-11, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+    fill: #fff;
+    }
+
+    .cls-2 {
+    fill: none;
+    stroke: #b0d8fa;
+    stroke-width: 4.708px;
+    }
+
+    .cls-2, .cls-3 {
+    fill-rule: evenodd;
+    }
+
+    .cls-4 {
+    font-size: 100px;
+    }
+
+    .cls-4, .cls-6, .cls-8 {
+    text-anchor: end;
+    }
+
+    .cls-11, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+    font-family: Raleway;
+    }
+
+    .cls-12, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+    font-weight: 700;
+    }
+
+    .cls-10, .cls-5, .cls-8 {
+    font-size: 58.333px;
+    }
+
+    .cls-5 {
+    text-anchor: middle;
+    text-transform: uppercase;
+    }
+
+    .cls-6 {
+    font-size: 50px;
+    }
+
+    .cls-11, .cls-6 {
+    font-variant: small-caps;
+    }
+
+    .cls-7 {
+    font-size: 37.5px;
+    }
+
+    .cls-8 {
+    fill: #1e1f24;
+    font-family: Nunito;
+    }
+
+    .cls-9 {
+    font-size: 45.833px;
+    font-weight: 500;
+    }
+
+    .cls-10 {
+    font-family: RalewayRoman_378.000wght, Raleway;
+    }
+
+    .cls-11 {
+    font-size: 146.653px;
+    font-weight: 300;
+    }
